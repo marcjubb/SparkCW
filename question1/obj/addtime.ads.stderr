@@ -1,0 +1,2 @@
+addtime.ads:1:09: error: package "addtime" does not allow a body
+addtime.ads:1:09: error: remove incorrect body in file "addtime.adb"

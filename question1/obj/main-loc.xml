@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>H:\SparkADA\2033568\question1\main.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>H:\SparkADA\anton_setzer-criticalhighintegritysystems-90a8075f1707\anton_setzer-criticalhighintegritysystems-90a8075f1707\sparkAdaCodeLecture\misc\conversion24hrClock12hrAMPMClock\withoutIO\vers01OnlyAdaWithIntegers\clock.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>H:\SparkADA\2033568\question1\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 3" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 5" >
+      <vfs_project>H:\SparkADA\2033568\question1\main.gpr</vfs_project>
+      <vfs_file>H:\SparkADA\2033568\question1\src\addtime.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
